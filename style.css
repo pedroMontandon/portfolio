@@ -1,0 +1,12 @@
+
+body {
+    background-color: rgb(0, 0, 56, .90);
+    font-family: audiowide, cursive;
+    color: violet;
+}
+
+
+/*Não tá funcionando
+p {
+    text-shadow: 0 0 80px rgb(192 219 255 / 75%), 0 0 32px rgb(65 120 255 / 24%);
+  }
