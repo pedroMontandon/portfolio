@@ -5,6 +5,23 @@ body {
     color: violet;
 }
 
+h2{
+    text-align: center;
+}
+
+.foto{
+    border-radius: 50%;
+}
+.foto:hover {
+    border: 2px solid yellow;
+    transform: scale(1.1);
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.biografia p{
+    text-align: justify;
+}
 
 /*Não tá funcionando
 p {
